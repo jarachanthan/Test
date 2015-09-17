@@ -1,2 +1,6 @@
 test first edit gfdgsfdgsdgsdr
+<<<<<<< HEAD
 test text
+=======
+nishan
+>>>>>>> fa01cd6d94699214299b16255f9af770298ee111
